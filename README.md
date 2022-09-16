@@ -17,6 +17,7 @@
  <a href="http://mohamadnaseralnakshbandi.pythonanywhere.com/">http://mohamadnaseralnakshbandi.pythonanywhere.com/</a>
 <br>
 <p>The response is</p>
+
 ```` json
 {
   "Age": 46,
@@ -27,12 +28,14 @@
   "Second_Name": "Alsop"
 }
 ````
+
 <hr>
 <p>To get more than one data set just visit the following link: </p>
 <br>
  <a href="http://mohamadnaseralnakshbandi.pythonanywhere.com/data/?number=X">http://mohamadnaseralnakshbandi.pythonanywhere.com/data/?number=X</a>
 <br>
 <p>The response is, by replacing X with the number 5</p>
+
 ```` json
 [
   {
