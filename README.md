@@ -1,7 +1,7 @@
 # DGAPI
 <img src="https://raw.githubusercontent.com/Mohmad-Naser-alnakeshbandi/DGAPI/master/Images/icon.png" alt="Icon for DGAPI">
 
-## This a free Data API, to get  up to 50 000 random generated data such as:
+## This a free Data API, to get  up to 500 000 (Half Million) random generated data such as:
 
 <ul>
 <li> First name </li>
