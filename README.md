@@ -1,5 +1,5 @@
 # DGAPI
-<img src="images/icon.png" alt="Icon for DGAPI">
+<img src="./images/icon.png" alt="Icon for DGAPI">
 
 ## This a free Data API, to get  up to 50 000 random generated data such as:
 
@@ -153,19 +153,19 @@ public class APIResquest {
 
 <p> Make the Talend Job</p>
 
-<img src="images/Talend.PNG" alt="Image for Talend Job">
+<img src="./images/Talend.PNG" alt="Image for Talend Job">
 
 <p> The configutation of TRest Component: </p>
 
-<img src="images/TRest.PNG" alt="Image for TRest">
+<img src="./images/TRest.PNG" alt="Image for TRest">
 
 <p> The configutation of TExtractJSONField Component:</p>
 
-<img src="images/TExtractJSONField.PNG" alt="Image for TExtractJSONField">
+<img src="./images/TExtractJSONField.PNG" alt="Image for TExtractJSONField">
 
 <p> The Result:</p>
 
-<img src="images/Console.PNG" alt="Image for Talend Job Resutlt">
+<img src="./images/Console.PNG" alt="Image for Talend Job Resutlt">
 
 </hr>
 
